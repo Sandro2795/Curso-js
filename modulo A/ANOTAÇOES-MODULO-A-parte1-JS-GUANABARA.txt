@@ -1,3 +1,34 @@
 ANOTAÇOES-MODULO-A-parte1-JS-GUANABARA
-
+client X servidor
 -todo servidor também é um pc.
+-quanto solicitado o arquivo no servidor. o servidor gera uma copia para seu client
+e assim seu navegador trabalha para gerar o efeito visual com as instruções.
+
+HTML= conteúdo
+CSS= estilo
+JS= interação
+
+Pode ser desativado o javascript nas configurações do inspecionar.
+
+pode ser usado o console no devtools(inspecionar)
+ Use alert('') para fazer aparecer uma imagem no navegador.
+exemplo:
+alert('ola, mundo').
+
+Use document.body.style.background = 'black'
+para alterar o background do site.
+
+para mexer no logo do google ou em outras coisas
+
+clique com a setinha do devtools para selecionar um elemento saber o nome dele
+e em seguida.
+Exemplo.
+ pode ser usado  no console para mexer na imagen do google
+document.querySelector        ('img#hplogo.Inxdpd')           .style.filter = 'grayscale(100%)'
+                       coloque o nome do elemento aqui
+
+use document.querySelector('img#hplogo.Inxdpd').style.visibility = 'hidden'
+para deixar o logo invisivel.
+
+Use para mexer em textos
+document.querySelector('h1.entry-tittle').innerText = 'Curso em video'
