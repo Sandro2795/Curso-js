@@ -3,4 +3,10 @@ ANOTAÇOES-MODULO-B-parte1-JS-GUANABARA
 referencias de livros:
 
 -JavaScript O guia definitivo
--JavaScript Guia do progamador.
+-JavaScript Guia do progamador
+-Guia de referencia da Mozilla
+:https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference
+-ECMA:
+https://www.ecma-international.org/publications-and-standards/standards/ecma-262/
+
+
