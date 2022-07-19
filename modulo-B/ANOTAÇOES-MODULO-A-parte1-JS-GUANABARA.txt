@@ -1,0 +1,6 @@
+ANOTAÇOES-MODULO-B-parte1-JS-GUANABARA
+
+referencias de livros:
+
+-JavaScript O guia definitivo
+-JavaScript Guia do progamador.
