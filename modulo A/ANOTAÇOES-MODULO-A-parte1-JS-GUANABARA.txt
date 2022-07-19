@@ -32,3 +32,57 @@ para deixar o logo invisivel.
 
 Use para mexer em textos
 document.querySelector('h1.entry-tittle').innerText = 'Curso em video'
+
+ARPANET foi criada para gerar os dados de um computador grande para outro
+evitando perda de dados.
+
+TIMOTY BERNES LEE criou a linguagem html. o http e a wold wide web.
+
+no estados unidos surgiu o primeiro navegador -MOSAIC no NCSA por MARC ANDREESEN.
+-foi adaptador de um interpretador de gopher.
+
+MARC ANDREESEN se juntou com JIM CLARK e fundou o NETSCAPE
+
+Brandon Eich criou nat empresa NETSCAPE
+uma linguagem chamada Mocha depois chamada de livescript.
+e depois foi chamada de javascript. porque fazia sucesso o nome 'java'.
+-na Sun Microsystems surgiu o java
+-java e javascript são baseados na linguagem C
+
+A microsoft comprou a empresa dona do MOSAIC e fez o INTERNET EXPLORER com base
+no codigo do MOSAIC.
+
+A empresa NETSCAPE resolveu padronizar o javascript com a ajuda da empresa ECMA.
+assim surgiu a ECMA SCRIPT.  a linguagem javascript padronizada.
+
+-em 2002  a empresa NETSCAPE faliu.
+-e depois surgiu a fundação Mozila que fez o navegador Mozilla Firefox.
+-e depois surgiu o Google Chrome.
+-em 2009 surgiu o Google Chrome com o motor V8 que roda javascript.
+-o motor v8 gerava codigos JIT e codigo aberto.
+-Em 2010 surgiu o NODEjs quando um pessoal mexeu nos codigo aberto do V8.
+
+O motor do Mozilla Firefox é o SpiderMonkey.
+O motor do Safari se chama Nitro.
+O motor do Opera se chama Karakan.
+O motor do Microsoft Edge se chama Chakra.
+
+-Em 2009 surgiu o ECMAScript(ES4).
+-em 2015 surgiu o ES6.
+-A ultima versão foi o ES 2018.
+
+jQuery é um framework(conjunto de bibliotecas) importante pra o javascript.
+
+JQuery foi criado pelo pessoal do MOZILLA.
+
+Angular foi criado e mantido pelo Google em 2009.
+
+O REACT foi criado pelo facebook.
+
+2014 foi criado o VUEjs.
+
+Electron foi criado pelo pessoal do github.
+
+Ionic surgiu baseado em javascript que anteriomente era da 
+apache que agora se chama cordova.
+
