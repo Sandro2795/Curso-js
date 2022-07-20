@@ -1,0 +1,13 @@
+ANOTAÇOES-MODULO-B-parte2-JS-GUANABARA.txt
+fazendo comentarios.
+// <-- uma unica linha. 
+coloque // no inicio de qualquer comando para deixar já deixar ele 
+comentado.
+
+/* <-- mais de uma linha do código.
+*/
+Use /* no começo da linha para já comentar todo o resto do codigo. e use */ para 
+fexar ate onde
+vai ser comentado.
+Armazenando os dados
+
