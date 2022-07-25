@@ -58,6 +58,8 @@ Use o comando typeof e em seguida o identificador da variavel para
 saber o seu tipo primitivo. pode ser colado so o numero ou string para identificar também
 exemplo:
 typeof name
+    ou
+typeof 5
 
-NaN e Infinity também é considerado um number.
+NaN(not a number) e Infinity também é considerado um number.
 
