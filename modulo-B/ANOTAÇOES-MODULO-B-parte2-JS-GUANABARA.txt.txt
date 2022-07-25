@@ -4,7 +4,8 @@ fazendo comentarios.
 coloque // no inicio de qualquer comando para deixar já deixar ele 
 comentado.
 
-/* <-- mais de uma linha do código.
+
+/* <-- mais de uma linha do código. <--esse tipo de comentario tambén pode ser feito no css
 */
 Use /* no começo da linha para já comentar todo o resto do codigo. e use */ para 
 fexar ate onde
